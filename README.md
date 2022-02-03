@@ -1,2 +1,2 @@
 # sample-repo
-更新
+subl上で更新を実施
