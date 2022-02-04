@@ -1,0 +1,3 @@
+newfile
+add したのちにsublから内容を変更
+add したのちにsublから内容を変更 2回目
